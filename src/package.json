@@ -10,9 +10,16 @@
     "lint": "eslint *.js"
   },
   "author": "Yosuke HASEGAWA",
+  "contributors": [
+    {
+      "name": "Kenji Yamada",
+      "email": "y.kenji@geolocation.co.jp",
+      "url": "https://www.geolocation.co.jp"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
-    "libxmljs": "^0.18.7",
-    "sqlite3": "^3.1.8"
+    "libxmljs": "^1.0.9",
+    "sqlite3": "^5.1.6"
   }
 }
